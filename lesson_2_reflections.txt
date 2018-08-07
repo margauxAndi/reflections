@@ -1,0 +1,8 @@
+Q: What happens when you initialize a repository? Why do you need to do it?
+
+A: A git file will be created when you initialize a repository.  This is needed so that Git can track the files within that directory.
+
+
+Q: How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+A: The staging area holds the files that you may be ready to commit.  The working directory on the other hand, holds the files that you may still be working on.  And the repository contains the files that have had significant changes or modification.
