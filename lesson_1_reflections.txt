@@ -1,0 +1,38 @@
+Reflection On Using Diff to Find Bugs
+
+When encountering error the first step is figuring out the time in which the error started occuring.  With this first step, a developer will likely try to find compare the differences between the old and new versions of the codes.
+
+The codes causing the error should be compared with its old version.  Testing the old version will also help in testing whether the old version of the code does indeed was working properly.
+
+Comparison of these codes will obviously be a logical step to take.  Finding the difference between the code will help the developer in finding what might be causing the error.
+
+
+Q: How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+A: Different ideas may occur during the entire time a developer is working on a project.  Having access to the history of a file will be helpful in recalling ideas that may have been changed.  This can also show the progress of the project and compare them.
+
+
+Q: What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+A: With manually choosing when to commit, a developer can limit the number of history files he can check later on.  This means having a clear description of each file and being able to identify the changes made for each commit.
+
+
+Q: Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately? 
+
+A: Because saving all the files involved when the changes were made will also helped the developer in determining where the changes where applied.
+
+
+Q: How can you use the commands git log and git diff to view the history of files?
+
+A: git log can be used to view the list of commits and git diff can be used to view the deletions or additions made to the files by comparing and two versions of the file
+
+
+Q: How might using version control make you more confident to make changes that could break something?
+
+A: Using version control allows a developer to review previous versions and compare them.  This makes it easier to find a bug and consequently fix those bugs
+
+
+Q: Now that you have your workspace set up, what do you want to try using Git for?
+
+A: I am interested in using Git to manage my codes
+
