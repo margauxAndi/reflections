@@ -11,3 +11,8 @@ A: The staging area holds the files that you may be ready to commit.  The workin
 Q: How can you use the staging area to make sure you have one commit per logical change?
 
 A: The staging area can be used to separate the changes you are ready to commit and the codes you are still working on.
+
+
+Q: What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+A: Branches will be helpful for trying some experimental codes.  It will also help when developers need to work on different aspect of the project.
