@@ -16,3 +16,13 @@ A: The staging area can be used to separate the changes you are ready to commit 
 Q: What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 A: Branches will be helpful for trying some experimental codes.  It will also help when developers need to work on different aspect of the project.
+
+
+Q: How do the diagrams help you visualize the branch structure?
+
+A: The diagrams help in understanding how each commit relates to the other commits and how each branch connects to other commits as well.
+
+
+Q: What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+A: Merging two branches together have included all the changes and added features in one branch.  The diagram provided a good visual to understand the connection of each branch and commits to each other.
