@@ -26,3 +26,7 @@ A: The diagrams help in understanding how each commit relates to the other commi
 Q: What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 A: Merging two branches together have included all the changes and added features in one branch.  The diagram provided a good visual to understand the connection of each branch and commits to each other.
+
+Q: What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+A: The pros of Git's automatic merging is the efficiency in which Gits identifies the codes to add and delete and provide a final result.  However, automatic merging may merge codes that may be ambiguous to the developers later on.  Doing manual merges on the other hand is a bit tedious but provides code review before having the final code.
